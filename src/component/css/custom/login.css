@@ -1,0 +1,42 @@
+.booking-img {
+    width: 100%;
+    height: 99%;
+}
+
+.submit {
+    padding: 11px 148px;
+    -webkit-border-radius: 7px;
+}
+
+.forgot-password {
+    padding-left: 165px;
+}
+
+.forgot-pw-link {
+    color: #ffffff;
+}
+
+.sign-up-link {
+    color: #ffffff;
+}
+
+.padding-top-fixed-image {
+    padding-top: 17px;
+}
+
+.fb-submit {
+    padding-left: 126px;
+}
+
+.google-submit {
+    padding-left: 144px;
+}
+
+.youtube-submit {
+    padding-left: 133px;
+}
+
+.button-bg-color-blue {
+    background: #b3b3ec;
+}
+
